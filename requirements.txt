@@ -1,0 +1,16 @@
+pip install -r requirements.txt
+
+
+python main.py
+
+
+example Output
+
+Copy
+Name: example-repo
+Description: Example description
+Stars: 10
+Forks: 2
+Open Issues: 1
+Open Pull Requests: 0
+README.md Status: README.md present
